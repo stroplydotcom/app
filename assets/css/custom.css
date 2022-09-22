@@ -1,0 +1,43 @@
+/*
+Custom Css
+*/
+
+.menu-bar{
+    background-color:#FF8C32;
+}
+
+.menu-bar-contacts{
+    background-color: #06113C;
+}
+
+.btn-payment{
+    background-color: #FF8C32;
+}
+
+.btn-closeproduct{
+    background-color: #FF8C32;
+}
+
+.btn-stroply{
+    background-color: #FF8C32;
+}
+
+.footer-links{
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-links:hover{
+    cursor: pointer;
+    text-decoration: none;
+    color: #06113C;
+}
+
+.row-copyright{
+    margin-top: 20px;
+}
+
+.product-price{
+    color: #FF8C32;
+}
